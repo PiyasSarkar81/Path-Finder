@@ -22,7 +22,7 @@ Live-view:  https://piyassarkar81.github.io/Path-Finder/
 <ol>
     <li><strong>Set Start and End Points</strong>: Click on the grid to place the start (🟢) and end (🔴) points.</li>
     <li><strong>Add/Remove Obstacles</strong>: Click on any cell to toggle obstacles (⬛).</li>
-    <li><strong>Generate Random Maze</strong>: Click the "Generate Maze" button to create a random maze.</li>
+    <li><strong>Generate Random Maze</strong>: Click the "Randomize Blocks" button to create a random maze.</li>
     <li><strong>Adjust Speed</strong>: Choose between fast 🏎️, medium 🚶, or slow 🐢 speed settings for the algorithm's execution.</li>
     <li><strong>Find the Path</strong>: Watch the A* algorithm find the shortest path from the start to the finish.</li>
 </ol>
