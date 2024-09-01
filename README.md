@@ -18,21 +18,6 @@ Live-view:  https://piyassarkar81.github.io/Path-Finder/
     <li><strong>Speed Control</strong>: Adjust the pathfinding speed to fast 🏎️, medium 🚶, or slow 🐢.</li>
 </ul>
 
-<h2>🚀 Getting Started</h2>
-
-<h3>Prerequisites</h3>
-<p>
-    Ensure you have Python installed and install the required dependencies:
-</p>
-<pre><code>pip install -r requirements.txt</code></pre>
-
-<h3>Running the App</h3>
-<p>
-    To run the app, use the following command in your terminal:
-</p>
-<pre><code>streamlit run main.py</code></pre>
-<p>This works for both Windows and Linux.</p>
-
 <h2>🛠️ How to Use</h2>
 <ol>
     <li><strong>Set Start and End Points</strong>: Click on the grid to place the start (🟢) and end (🔴) points.</li>
