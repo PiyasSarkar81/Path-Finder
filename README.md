@@ -28,6 +28,4 @@ Live-view:  https://piyassarkar81.github.io/Path-Finder/
 </ol>
 
 <h2>🖥️ Screenshots</h2>
-<p>
-    ![Screenshot 2025-01-06 105342](https://github.com/user-attachments/assets/9a259c51-bceb-4220-abc6-034232a5fdb2)
-</p>
+![Screenshot 2025-01-06 105342](https://github.com/user-attachments/assets/9a259c51-bceb-4220-abc6-034232a5fdb2)
